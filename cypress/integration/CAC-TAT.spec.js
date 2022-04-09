@@ -227,4 +227,4 @@ it("campo telefone continua vazio quando preenchido com valor não numérico", f
     cy.get('#subtitle')
       .invoke('text', 'Eu 💜 gatos')
   });
-});
+}); 
