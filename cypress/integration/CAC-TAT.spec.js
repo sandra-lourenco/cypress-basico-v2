@@ -1,6 +1,6 @@
 // <reference types="Cypress" />
 
-const { isExportDeclaration } = require("typescript");
+//const { isExportDeclaration } = require("typescript");
 
 describe("Central de Atendimento ao Cliente TAT", function () {
   beforeEach(function () {
