@@ -30,5 +30,4 @@ Or, run `npm run cy:open` to open Cypress in interactive mode on a mobile viewpo
 
 ---
 
-This project was created with 💚 by [Walmyr](https://walmyr.dev).
 I've taken this course on Udemy on April 2022.
